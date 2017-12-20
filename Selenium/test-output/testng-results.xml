@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7614" started-at="2017-10-27T20:57:33Z" finished-at="2017-10-27T20:57:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7614" started-at="2017-10-27T20:57:33Z" finished-at="2017-10-27T20:57:41Z">
+      <class name="testing.FirefoxDriver_Boilerplate">
+        <test-method status="PASS" signature="bmet()[pri:0, instance:testing.FirefoxDriver_Boilerplate@4de8b406]" name="bmet" is-config="true" duration-ms="4851" started-at="2017-10-27T16:57:33Z" finished-at="2017-10-27T16:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmet -->
+        <test-method status="PASS" signature="tcase4()[pri:0, instance:testing.FirefoxDriver_Boilerplate@4de8b406]" name="tcase4" duration-ms="2347" started-at="2017-10-27T16:57:38Z" finished-at="2017-10-27T16:57:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase4 -->
+        <test-method status="PASS" signature="amet()[pri:0, instance:testing.FirefoxDriver_Boilerplate@4de8b406]" name="amet" is-config="true" duration-ms="400" started-at="2017-10-27T16:57:40Z" finished-at="2017-10-27T16:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amet -->
+      </class> <!-- testing.FirefoxDriver_Boilerplate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
